@@ -1,2 +1,1 @@
 # PyGame
-Flappybat game
