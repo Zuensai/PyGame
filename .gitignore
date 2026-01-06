@@ -1,2 +1,33 @@
+# ------------------
+# Python
+# ------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
 .venv/
-pycache__/
+venv/
+
+# ------------------
+# Runtime / generated files
+# ------------------
+highscore.txt
+
+# ------------------
+# OS junk
+# ------------------
+.DS_Store
+Thumbs.db
+
+# ------------------
+# Editor / IDE
+# ------------------
+.vscode/
+.idea/
+
+# ------------------
+# Logs (if you ever add them)
+# ------------------
+*.log
