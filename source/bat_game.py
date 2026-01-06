@@ -2,7 +2,7 @@ import pygame
 from pygame import Color
 from pygame.locals import QUIT
 import sys
-
+from Bat import Bat
  
 pygame.init() 
 
